@@ -1,6 +1,7 @@
 /*
 Author: Invrise
 For Archive Only, Please Do NOT Copy.
+State: WA
 */
 #include <bits/stdc++.h>
 using namespace std;
@@ -10,10 +11,7 @@ int main()
     freopen("in.io", "r", stdin);
     freopen("out.io", "w", stdout);
 #endif
-    int a, b;
-    cin >> a >> b;
-    int c = a + b;
-    cout << c << endl;
+    
 #ifdef LOCAL
     fclose(stdin);
     fclose(stdout);
